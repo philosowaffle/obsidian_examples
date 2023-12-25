@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "19e9fed2af462024",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ebfd6e65e87ee5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4792c4eba9099eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 meta/shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2eb8e8d80322847",
+    "type": "split",
+    "children": [
+      {
+        "id": "756d1bcffe1b37fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe23d0b14a7d6360",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d1974de978568ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6e833102e87a58b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb864fa2cb0069c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "643756729c4c764c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27992d68125aafaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 meta/shortcuts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97cccc26a9d5387c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 meta/shortcuts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fc1ba69d9ebb05a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d95f5d9a5512c490",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 meta/shortcuts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4792c4eba9099eb9",
+  "lastOpenFiles": [
+    "001 meta/wishlist.md",
+    "001 meta/shortcuts.md",
+    "001 meta/style.md",
+    "001 meta/problems.md",
+    "001 meta/plugins.md",
+    "001 meta/templates/daily_note_template.md",
+    "Welcome.md",
+    "001 meta/templates",
+    "001 meta"
+  ]
+}
