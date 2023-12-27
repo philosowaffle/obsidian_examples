@@ -4,3 +4,4 @@
 
 This example shows a method for keeping track of your Obsidian configuration using a `001 meta/` folder.
 
+Read more about this vault [here](https://www.next-topic.com/how-i-document-my-obsidian-setup/?mtm_campaign=github_meta_example_readme).
